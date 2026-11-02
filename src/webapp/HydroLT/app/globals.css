@@ -222,6 +222,19 @@ main {
   grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
 }
 
+/* Compact centered auth card (login / signup) — never stretches full-width */
+.auth-wrap {
+  display: flex;
+  justify-content: center;
+  margin-top: 26px;
+}
+
+.auth-card {
+  width: 100%;
+  max-width: 380px;
+  height: fit-content;
+}
+
 .section {
   margin-top: 26px;
 }

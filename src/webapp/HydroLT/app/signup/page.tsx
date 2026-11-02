@@ -83,8 +83,8 @@ export default function SignupPage() {
         </Badge>
       </div>
 
-      <section className="grid grid-1">
-        <form className="card" onSubmit={handleSubmit} noValidate>
+      <section className="auth-wrap">
+        <form className="card auth-card" onSubmit={handleSubmit} noValidate>
           <header className="card-head">
             <h2>Sign up</h2>
           </header>

@@ -74,8 +74,8 @@ export default function LoginPage() {
         </Badge>
       </div>
 
-      <section className="grid grid-1">
-        <form className="card" onSubmit={handleSubmit} noValidate>
+      <section className="auth-wrap">
+        <form className="card auth-card" onSubmit={handleSubmit} noValidate>
           <header className="card-head">
             <h2>Account</h2>
           </header>
