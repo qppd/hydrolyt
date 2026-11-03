@@ -47,3 +47,6 @@ build/
 __pycache__/
 *.pyc
 .venv/
+# ---- 3D Models / GCODE ----
+*.gcode
+*.stl
