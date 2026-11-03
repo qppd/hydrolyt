@@ -208,12 +208,29 @@ hydrolyt/
 
 ## Screenshots
 
-<!-- TODO: add dashboard / history / controls screenshots once deployed.
-     Drop the images in docs/assets/ and replace the paths below. -->
-
 | Dashboard | Controls |
 |---|---|
 | ![Dashboard](docs/assets/dashboard.png) | ![Controls](docs/assets/controls.png) |
+
+## 3D Model Renders
+
+Enclosure case renders for the ESP32 controller and sensor module.
+
+| Front | Back |
+|---|---|
+| ![Model 1](model/Hydrolyt_1.png) | ![Model 2](model/Hydrolyt_2.png) |
+
+| DHT22 Case | DHT22 Case (alt) |
+|---|---|
+| ![Case](model/Hydrolyt_Case_DHT22_Case.png) | ![Case 2](model/Hydrolyt_Case_DHT22_Case_2.png) |
+
+| Cover 1 | Cover 1 (alt) |
+|---|---|
+| ![Cover 1-1](model/Hydrolyt_Case_DHT22_Cover_1_1.png) | ![Cover 1-2](model/Hydrolyt_Case_DHT22_Cover_1_2.png) |
+
+| Relay Cover 2 | Relay Cover 2 (alt) |
+|---|---|
+| ![Relay 2-1](model/Hydrolyt_Case_DHT22_Relay_Cover_2_1.png) | ![Relay 2-2](model/Hydrolyt_Case_DHT22_Relay_Cover_2_2.png) |
 
 ---
 
